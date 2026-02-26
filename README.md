@@ -1,3 +1,6 @@
+
+<img width="877" height="547" alt="Screen Shot 2026-02-26 at 11 47 25 AM" src="https://github.com/user-attachments/assets/e5b512af-1563-4153-b08f-a92e21d2fa2e" />
+
 📉 GRC Compliance Trend Tracker
 Overview
 This project is an interactive Time-Series Analysis tool designed for Cybersecurity GRC (Governance, Risk, and Compliance) teams. It tracks an organization's compliance maturity over a 12-month period, providing a visual narrative of how security controls improve through consistent auditing and remediation.
